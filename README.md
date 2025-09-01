@@ -6,7 +6,7 @@ A modern Flutter application that connects users with experts and consultants fo
 
 Khabeer is a comprehensive platform that facilitates connections between users seeking professional expertise and qualified experts in various fields. The app provides features for booking appointments, real-time chat communication, expert discovery, and profile management.
 
-![KhabeerCover](https://github.com/user-attachments/assets/09c3d25f-9dd0-4783-af04-2a1c807f8309)
+![KhabeerCover](https://github.com/user-attachments/assets/ab1e705f-e7a7-4309-9a06-054cb4186e41)
 
 ## ✨ Features
 
