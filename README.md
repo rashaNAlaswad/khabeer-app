@@ -33,7 +33,6 @@ lib/
 │   ├── di/                # Dependency injection
 │   ├── helper/            # Helper utilities
 │   ├── router/            # Navigation routing
-│   ├── secrets/           # API keys and secrets
 │   ├── services/          # Core services
 │   └── theme/             # App theming
 ├── features/              # Feature modules
